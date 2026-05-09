@@ -6,9 +6,9 @@
     "node": "22.x"
   },
   "scripts": {
-    "start": "n8n start"
+    "start": "n8n"
   },
- "dependencies": {
+  "dependencies": {
     "n8n": "latest"
   }
 }
